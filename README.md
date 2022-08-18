@@ -1,6 +1,6 @@
 # NeuralSymbolicPapers(Personnal Usage)
 
-![](https://img.shields.io/github/last-commit/Timothyxxx/RetrivalLMPapers?color=green)
+![](https://img.shields.io/github/last-commit/Timothyxxx/NeuralSymbolicPapers?color=green)
 
 Paper collections of neural-symbolic methods.
 
